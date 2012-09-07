@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<!--- BACKGROUNDS -->
+	<resource type="image" id="MENU_BACKGROUND">rpsData/images/menuBG.jpg</resource>
+	<resource type="image" id="ABOUT_BACKGROUND">rpsData/images/aboutBG.jpg</resource>
+	<resource type="image" id="GAME_BACKGROUND">rpsData/images/gameBG.jpg</resource>
+	<!-- IMAGES -->
+	<!-- -ABOUT- IMAGES -->
+	<resource type="image" id="-ABOUT-_MENU_BUTTON">rpsData/images/aboutMenuButton.jpg</resource>
+	
+	<!-- -MENU- IMAGES -->
+	<resource type="image" id="-MENU-_ABOUT_BUTTON">rpsData/images/menuAboutButton.jpg</resource>
+	<resource type="image" id="-MENU-_EXIT_BUTTON">rpsData/images/menuExitButton.jpg</resource>
+	<resource type="image" id="-MENU-_START_BUTTON">rpsData/images/menuStartButton.jpg</resource>
+	
+	<!-- -GAME- IMAGES -->
+	<resource type="image" id="-GAME-_BLANK_IMAGE">rpsData/images/blankImage.jpg</resource>
+	<resource type="image" id="-GAME-_MENU_BUTTON">rpsData/images/gameMenuButton.jpg</resource>
+	<resource type="image" id="-GAME-_PAPER_BUTTON">rpsData/images/gamePaperButton.jpg</resource>
+	<resource type="image" id="-GAME-_RESET_BUTTON">rpsData/images/gameResetButton.jpg</resource>
+	<resource type="image" id="-GAME-_ROCK_BUTTON">rpsData/images/gameRockButton.jpg</resource>
+	<resource type="image" id="-GAME-_SCISSORS_BUTTON">rpsData/images/gameScissorsButton.jpg</resource>
+	<resource type="image" id="-GAME-_WIN_BAR">rpsData/images/gameWinBar.jpg</resource>
+	<resource type="image" id="-GAME-_TIE_BORDER">rpsData/images/tieBorder.jpg</resource>
+	<resource type="image" id="-GAME-_WIN_BORDER">rpsData/images/winBorder.jpg</resource>
+	<resource type="image" id="-GAME-_LOSE_BORDER">rpsData/images/loseBorder.jpg</resource>
+	
+	<!-- -Game- MOVE IMAGES -->
+	<resource type="image" id="-GAME-_PAPER_IMAGE_0">rpsData/images/paperImage0.jpg</resource>
+	<resource type="image" id="-GAME-_PAPER_IMAGE_1">rpsData/images/paperImage1.jpg</resource>
+	<resource type="image" id="-GAME-_PAPER_IMAGE_2">rpsData/images/paperImage2.jpg</resource>
+	<resource type="image" id="-GAME-_ROCK_IMAGE_0">rpsData/images/rockImage0.jpg</resource>
+	<resource type="image" id="-GAME-_ROCK_IMAGE_1">rpsData/images/rockImage1.jpg</resource>
+	<resource type="image" id="-GAME-_ROCK_IMAGE_2">rpsData/images/rockImage2.jpg</resource>
+	<resource type="image" id="-GAME-_SCISSORS_IMAGE_0">rpsData/images/scissorsImage0.jpg</resource>
+	<resource type="image" id="-GAME-_SCISSORS_IMAGE_1">rpsData/images/scissorsImage1.jpg</resource>
+	<resource type="image" id="-GAME-_SCISSORS_IMAGE_2">rpsData/images/scissorsImage2.jpg</resource>
+	
+	<!-- SOUNDS -->
+	<resource type="sound" id="CLICK_SOUND">rpsData/sounds/click.wav</resource>
+	<resource type="sound" id="DING_SOUND">rpsData/sounds/ding.wav</resource>
+	<resource type="sound" id="BUZZER_SOUND">rpsData/sounds/buzzer.wav</resource>
+</resources>
